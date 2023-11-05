@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dhanay-J
 - 👀 I’m interested in Programming , Python in specific.
-- 🌱 I’m currently learning B.Tech in AI and ML
+- 🌱 I’m currently pursuing B.Tech in AI and ML
 - 📫 How to reach me : jdhanay13@gmail.com
 
 <!---
