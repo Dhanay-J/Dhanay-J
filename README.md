@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Dhanay-J
+- 👀 I’m interested in Programming , Python in specific.
+- 🌱 I’m currently pursuing B.Tech in AI and ML (2022-26)
+- 📫 How to reach me :
+-     https://www.linkedin.com/in/dhanay-j-5618ab273/
+-     https://devfolio.co/@Dhanay_J
